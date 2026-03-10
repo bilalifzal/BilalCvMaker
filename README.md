@@ -25,6 +25,7 @@ The system features a dynamic template rendering engine, secure user authenticat
 * **Database:** MySQL
 * **Frontend:** HTML5, CSS3, JavaScript, Bootstrap 5
 * **Libraries:** FontAwesome, html2pdf (or specific PDF rendering library used)
+* **Pdf Templates** New temlates have been updated
 
 ## 🚀 How to Run Locally
 If you want to run this project on your local machine:
