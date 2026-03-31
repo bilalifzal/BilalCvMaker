@@ -1,6 +1,6 @@
 # 🚀 BilalCvMaker - Professional Resume Builder
 
-![BilalCvMaker Preview](https://via.placeholder.com/1200x600.png?text=BilalCvMaker+-+Empowering+Student+Careers)
+
 
 **Live Demo:** [bilalcvmaker.lovestoblog.com](https://bilalcvmaker.lovestoblog.com)
 
